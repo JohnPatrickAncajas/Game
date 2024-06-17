@@ -57,4 +57,4 @@ label start:
 
     "As Melvin took his final breaths, he watched C.A.F.A work tirelessly through the night."
 
-    "The robot had become more than just circuits and code; it was a beacon of hope in a drowning world."
+    "The robot had become more than just circuits and code; it was the beacon of hope in a drowning world."
